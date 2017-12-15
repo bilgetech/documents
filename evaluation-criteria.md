@@ -23,6 +23,3 @@ Notice that you are being evaluated in different aspects of your code and an unf
     - ##### `2.4.` Algorithms and Data Structures
         - How optimal are the algorithms used in the project?
         - Are the data structures selected wisely and purposefully?
-
-### Code of Conduct:
-Do not forget you should only post code that is written by you, and if you happen to use a code developed by another person (e.g. a third party library, a gist, a stackoverflow answer, etc) you MUST cite the work pointing the source URL. 
