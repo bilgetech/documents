@@ -14,7 +14,7 @@ Please check out [this document](/evaluation-criteria.md) to learn how will your
 Please check out [this document](/plagiarism.md) before you start to work.
 
 ### Project Specification:
-There are 10 white-collar workers who will be taken to their homes after long hours of work. They work for a big corporation which arrange them personnel vehicles from the office (starting point) to their houses (destination points). The corporation wants to determine the optimal count of vehicles and their routes to minimise fuel consumption.
+There are 10 white-collar workers who will be taken to their homes after long hours of work. They work for a big corporation which arrange them `r` personnel vehicles from the office (starting point) to their houses (destination points). The corporation wants to determine the optimal count of vehicles (`r`) and their routes to minimise fuel consumption.
 
 We want you to build a .NET Core 2.0 console application that will calculate an [efficient¹](#1-the-term-efficient-does-not-imply-optimality-the-algorithm-or-heuristic-may-be-semi-optimal-or-non-deterministic-it-may-produce-bad-results-for-some-inputs) way to distribute passengers to the vehicles and output the result. Please note that the project will be evaluated by humans and not by automated scripts, so the format of output is up to you as long as it's human-readable :)
 
