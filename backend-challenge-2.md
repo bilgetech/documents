@@ -25,7 +25,7 @@ We want you to build a .NET Core 2.0 console application with included unit test
 The first line is a directed graph where a node represents a town and an edge represents a route between two towns. 
 The weighting of the edge represents the distance between the two towns. 
 A given route will never appear more than once, and for a given route, the starting and ending town will not be the same town.
-The second line starts with PATH and asks you to find all the paths starting from a town and ending in a town having a maximum distance.
+The second line starts with PATH and asks you to find all the paths starting from a town and ending in a town having a maximum total distance.
 In the test input given below, you will find all paths starting at C and ending at C, with total distance less than 30.
 
 #### Test Input:
